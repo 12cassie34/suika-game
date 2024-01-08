@@ -10,20 +10,28 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@pixi/interaction": "^6.5.10",
     "@pixi/react": "^7.1.1",
+    "autoprefixer": "^10.4.16",
+    "big.js": "^6.2.1",
     "pixi.js": "^7.3.3",
+    "postcss": "^8.4.33",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
+    "@types/big.js": "^6.2.2",
     "@types/react": "^18.2.43",
     "@types/react-dom": "^18.2.17",
+    "@types/uuid": "^9.0.7",
     "@typescript-eslint/eslint-plugin": "^6.14.0",
     "@typescript-eslint/parser": "^6.14.0",
     "@vitejs/plugin-react-swc": "^3.5.0",
     "eslint": "^8.55.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
+    "tailwindcss": "^3.4.1",
     "typescript": "^5.2.2",
     "vite": "^5.0.8"
   }

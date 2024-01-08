@@ -1,12 +1,14 @@
 import { useState } from 'react'
 
+import SuikaStage from './components/SuikaStage'
+
 import './App.css'
 
 function App() {
 
   return (
     <>
-      <h1>hello</h1>
+      <SuikaStage />
     </>
   )
 }
